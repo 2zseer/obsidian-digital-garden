@@ -1,19 +1,23 @@
 ---
-{"dg-home":true,"dg-publish":true,"tags":["MOC","gardenEntry","gardenEntry"],"date created":"2022-12-27T23:38:31+09:00","date updated":"2023-02-01T21:19:55+09:00","permalink":"/digitalGarden/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"tags":["메인","gardenEntry","gardenEntry"],"date created":"2022-12-27T23:38:31+09:00","date updated":"2023-02-19T19:05:15+09:00","permalink":"/digitalGarden/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
-이 사이트는 Obsidian의 Digital Garden 플러그인으로 만든 개인지식관리용 정적 사이트
+책을 사다보니 은근 공간을 차지하는 것도, 그리고 배운 지식을 자주 잊어먹는 것도 있기도 했고,
 
-우선은 도서관식으로 지식을 배치하려고 하는데 [공장식 생각법](공장식%20생각법.md)이라는 것도 보여 테스트로 적용을 해보려고 한다.
+봐야지 하고 갈무리했다가 그냥 지나가는 경우도 많아 개인 지식 관리 사이트를 생성하였다.
 
-해당 플러그인을 선택한 이유로는 그래프 뷰와 dataview.js가 지원한다는 점이 있고
+우선은 도서관식으로 지식을 배치하려고 하는데 [공장식 생각법](공장식%20생각법.md)이라는 것도 보여 테스트로 적용을 해볼까 한다.
 
-무엇보다 옵시디안에 있는 테마들이 지원이 된다. (이상하게 버그가 있어서 지금은 안 되는 것 같다 ㅠ)
+결심은 했지만 발심은 언제 될지 모르겠다 :(
 
-프라이빗으로 배포도 되지만 댓글을 달 수 있게 하려면 퍼블릭으로 해야한다는거
+사이트는  Obsidian의 Digital Garden Plugin을 통해서 만들었는데,
 
-특별한 일이 없으면 당분간 해당 플러그인을 통해서 글을 발행하지 않을까
+그래프 뷰와 dataview가 지원된다는 점과 obsidian의 사용자들이 만든 테마들을 이용해서 사이트 테마를 빠르게 변경할 수 있다는 점이 좋았다.
+
+프라이빗으로 배포할 수 있다는 것도 좋았는데 댓글을 달 수 있게 하려면 퍼블릭으로 해야하기 때문에 이건 어쩔 수 없는 듯
+
+테마 변경 오류가 있어서 netlify에서 vercel로 변경을 하였다.
 
 
  [[1_info/1_info\|1_info]]
@@ -24,16 +28,16 @@
 
 
 <script src="https://giscus.app/client.js"
-        data-repo="2zseer/digitalgarden"
-        data-repo-id="R_kgDOI3HOiQ"
+        data-repo="2zseer/obsidian-digital-garden"
+        data-repo-id="R_kgDOI_Ty6w"
         data-category="General"
-        data-category-id="DIC_kwDOI3HOic4CT3eY"
-        data-mapping="url"
+        data-category-id="DIC_kwDOI_Ty684CUSXy"
+        data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
-        data-theme="dark_dimmed"
+        data-theme="dark"
         data-lang="ko"
         crossorigin="anonymous"
         async>
