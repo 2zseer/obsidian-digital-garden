@@ -1,9 +1,10 @@
 ---
-{"dg-home":true,"dg-publish":true,"tags":["메인","gardenEntry","gardenEntry"],"date created":"2022-12-27T23:38:31+09:00","date updated":"2023-02-19T19:05:15+09:00","permalink":"/digitalGarden/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"tags":["메인","gardenEntry"],"date created":"2022-12-27T23:38:31+09:00","date updated":"2023-02-19T19:12:16+09:00","permalink":"/digitalGarden/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
 책을 사다보니 은근 공간을 차지하는 것도, 그리고 배운 지식을 자주 잊어먹는 것도 있기도 했고,
+
 
 봐야지 하고 갈무리했다가 그냥 지나가는 경우도 많아 개인 지식 관리 사이트를 생성하였다.
 
