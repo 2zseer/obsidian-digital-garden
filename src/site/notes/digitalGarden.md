@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"tags":["메인","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"date created":"2022-12-27T23:38:31+09:00","date updated":"2023-02-19T19:12:16+09:00","permalink":"/digitalGarden/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"tags":["메인","gardenEntry","gardenEntry"],"date created":"2022-12-27T23:38:31+09:00","date updated":"2023-02-19T19:12:16+09:00","permalink":"/digitalGarden/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
